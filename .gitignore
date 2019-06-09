@@ -1,0 +1,17 @@
+*~
+*#
+*.swp
+.*
+!/.gitignore
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+
+/.coverage
+/.coverage.*
+/.cache
+/.pytest_cache
+
+/doc/_apidoc/
+/build
